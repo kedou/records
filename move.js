@@ -4,7 +4,6 @@
 * options: 运动参数 time: 总时间  type：运动方式
 */
 
-
 function move(obj, json, options){
 	options = options || {};
 	options.time = options.time || 700;
